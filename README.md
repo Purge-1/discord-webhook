@@ -14,7 +14,7 @@ https://canary.discordapp.com/api/webhooks/<HOOKID>/<TOKEN>
 
 This has to be done.
 ```
-var discord = require('discord-bot-webhook');
+var discord = require('discord-webhook-2');
 discord.hookId = 'PutHookIdHere';
 discord.hookToken = 'PutTokenHere';
 ```
